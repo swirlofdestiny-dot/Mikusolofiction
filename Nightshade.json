@@ -1,0 +1,286 @@
+{
+  "name": "Hatsune Miku Theme",
+  "description": "A theme inspired by Hatsune Miku for Revenge/Kettu.",
+  "authors": [
+    {
+      "name": "AI Assistant"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#2C2F33"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#2C2F33"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#2C2F33"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#137a7f"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#137a7f"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#86cecb"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#137a7f"
+    ],
+    "CHANNEL_ICON": [
+      "#88CECB"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#BEC8D1"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#39C5BB"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#00A2D6"
+    ],
+    "TEXT_NORMAL": [
+      "#BEC8D1"
+    ],
+    "TEXT_MUTED": [
+      "#88CECB"
+    ],
+    "TEXT_LINK": [
+      "#39C5BB"
+    ],
+    "TEXT_PRIMARY": [
+      "#BEC8D1"
+    ],
+    "TEXT_DANGER": [
+      "#e12885"
+    ],
+    "HEADER_PRIMARY": [
+      "#BEC8D1"
+    ],
+    "HEADER_SECONDARY": [
+      "#88CECB"
+    ],
+    "BRAND": [
+      "#39C5BB"
+    ],
+    "BRAND_EXPERIMENT": [
+      "#39C5BB"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND": [
+      "#39C5BB"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND_HOVER": [
+      "#86cecb"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND_ACTIVE": [
+      "#137a7f"
+    ],
+    "BUTTON_DANGER_BACKGROUND": [
+      "#e12885"
+    ],
+    "MENTION_FOREGROUND": [
+      "#39C5BB"
+    ],
+    "MENTION_BACKGROUND": [
+      "#39C5BB33"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#137a7f"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": [
+      "#39C5BB"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#BEC8D1"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#2C2F33"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#39C5BB"
+    ],
+    "BACKGROUND_BRAND": [
+      "#39C5BB"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#88CECB"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#88CECB"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#88CECB"
+    ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#000000"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#000000"
+    ],
+    "HOME_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#000000"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#2C2F33"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#2C2F33"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#2C2F33"
+    ],
+    "BACKGROUND_SURFACE_RAISED": [
+      "#2C2F33"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#2C2F33"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#2C2F33"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#2C2F33"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#2C2F33"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#2C2F33"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#2C2F33"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#2C2F33"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#2C2F33"
+    ],
+    "EMBED_BACKGROUND": [
+      "#2C2F33"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#2C2F33"
+    ],
+    "KEYBOARD": [
+      "#2C2F33"
+    ],
+    "PANEL_BG": [
+      "#2C2F33"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#2C2F33"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#2C2F33"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#2C2F33"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#2C2F33"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#2C2F33"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#2C2F33"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#2C2F33"
+    ],
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#BEC8D1"
+    ],
+    "TEXT_DEFAULT": [
+      "#BEC8D1"
+    ],
+    "TEXT_STRONG": [
+      "#BEC8D1"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#39C5BB",
+    "BRAND_600": "#39C5BB",
+    "PRIMARY_DARK": "#1e2126",
+    "PRIMARY_DARK_600": "#2C2F33",
+    "RED_400": "#e12885",
+    "BRAND_200": "#39C5BB",
+    "BRAND_260": "#39C5BB",
+    "BRAND_300": "#39C5BB",
+    "BRAND_330": "#39C5BB",
+    "BRAND_345": "#39C5BB",
+    "BRAND_360": "#39C5BB",
+    "BRAND_400": "#39C5BB",
+    "BRAND_430": "#39C5BB",
+    "BRAND_460": "#39C5BB",
+    "BRAND_530": "#39C5BB",
+    "BRAND_630": "#39C5BB",
+    "BRAND_660": "#39C5BB",
+    "BRAND_700": "#39C5BB",
+    "PLUM_3": "#39C5BB",
+    "PLUM_15": "#39C5BB",
+    "PRIMARY_300": "#39C5BB",
+    "PRIMARY_360": "#39C5BB",
+    "PRIMARY_500": "#39C5BB",
+    "PRIMARY_530": "#39C5BB",
+    "BRAND_560": "#00A2D6",
+    "PRIMARY_400": "#00A2D6",
+    "PLUM_9": "#88CECB",
+    "PLUM_10": "#88CECB",
+    "PLUM_11": "#88CECB",
+    "PLUM_13": "#88CECB",
+    "PRIMARY_730": "#88CECB",
+    "ROLE_DEFAULT": "#88CECB",
+    "WHITE_630": "#88CECB",
+    "PLUM_17": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_24": "#000000",
+    "PLUM_25": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "PLUM_16": "#2C2F33",
+    "PLUM_19": "#2C2F33",
+    "PLUM_21": "#2C2F33",
+    "PLUM_22": "#2C2F33",
+    "PRIMARY_460": "#2C2F33",
+    "PRIMARY_630": "#2C2F33",
+    "PRIMARY_660": "#2C2F33",
+    "PRIMARY_700": "#2C2F33",
+    "PRIMARY_DARK_630": "#2C2F33",
+    "PRIMARY_DARK_660": "#2C2F33",
+    "BRAND_730": "#BEC8D1",
+    "PLUM_1": "#BEC8D1",
+    "PLUM_4": "#BEC8D1",
+    "PLUM_6": "#BEC8D1",
+    "PRIMARY_100": "#BEC8D1",
+    "PRIMARY_200": "#BEC8D1",
+    "PRIMARY_330": "#BEC8D1",
+    "PRIMARY_DARK_200": "#BEC8D1",
+    "WHITE_500": "#BEC8D1"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1559401312724983850/1561953134748639252/44qh6vfs.jpg?ex=6ad839b7&is=6ad6e837&hm=cd35e7a3ef604232f04b9280a8b3b9ca1fccaedc6c98551377224d9e6c764ae4&",
+    "alpha": 0.7,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "iconpack": "rosiecord-plumpy"
+  }
+}
